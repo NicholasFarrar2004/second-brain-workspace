@@ -1,56 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title description">
-<title id="title">A corrected measurement changes the poster plan</title>
-<desc id="description">Explanatory illustration of the fictional fixture. The old unconfirmed assumption was 240 cm and one row of four posters. The corrected width is 180 cm. The current plan arranges four posters in two columns and two rows, reusing boards. Memory owns the corrected constraints, the handoff says proofread captions next, and the archive marks the old assumption superseded. No installation is claimed.</desc>
-<rect width="1000" height="650" rx="20" fill="#f3f6fb"/>
-<g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#192942">
-<text x="36" y="36" font-size="17" fill="#345baa" font-weight="700">EXPLANATORY ILLUSTRATION · FICTIONAL POSTER EXAMPLE</text>
-<text x="36" y="79" font-size="34" fill="#192942" font-weight="750">A new measurement. A different plan.</text>
-<rect x="36" y="111" width="390" height="263" rx="12" fill="#fff" stroke="#ced9e8"/>
-<rect x="574" y="111" width="390" height="263" rx="12" fill="#edf6f1" stroke="#b6d6c6"/>
-<text x="56" y="142" font-size="17" fill="#65748a" font-weight="700">BEFORE · SUPERSEDED ASSUMPTION</text>
-<text x="56" y="177" font-size="25" fill="#192942" font-weight="700">240 cm, not yet confirmed</text>
-<text x="56" y="207" font-size="19" fill="#4b5d76" font-weight="400">Earlier sketch: four posters in one row.</text>
-<rect x="62" y="237" width="68" height="87" rx="5" fill="#e5ebf4" stroke="#9baec8"/>
-<text x="88" y="289" font-size="25" fill="#536781" font-weight="700">1</text>
-<rect x="146" y="237" width="68" height="87" rx="5" fill="#e5ebf4" stroke="#9baec8"/>
-<text x="172" y="289" font-size="25" fill="#536781" font-weight="700">2</text>
-<rect x="230" y="237" width="68" height="87" rx="5" fill="#e5ebf4" stroke="#9baec8"/>
-<text x="256" y="289" font-size="25" fill="#536781" font-weight="700">3</text>
-<rect x="314" y="237" width="68" height="87" rx="5" fill="#e5ebf4" stroke="#9baec8"/>
-<text x="340" y="289" font-size="25" fill="#536781" font-weight="700">4</text>
-<text x="56" y="355" font-size="18" fill="#65748a" font-weight="400">Historical sketch, not the current layout.</text>
-<text x="594" y="142" font-size="17" fill="#197460" font-weight="700">AFTER · CURRENT PLAN</text>
-<text x="594" y="177" font-size="25" fill="#192942" font-weight="700">180 cm, corrected width</text>
-<text x="594" y="207" font-size="19" fill="#4b5d76" font-weight="400">Four posters, two columns by two rows.</text>
-<rect x="626" y="227" width="84" height="48" rx="5" fill="#d3eade" stroke="#74a68c"/>
-<text x="659" y="259" font-size="23" fill="#225d43" font-weight="700">1</text>
-<rect x="728" y="227" width="84" height="48" rx="5" fill="#d3eade" stroke="#74a68c"/>
-<text x="761" y="259" font-size="23" fill="#225d43" font-weight="700">2</text>
-<rect x="626" y="286" width="84" height="48" rx="5" fill="#d3eade" stroke="#74a68c"/>
-<text x="659" y="318" font-size="23" fill="#225d43" font-weight="700">3</text>
-<rect x="728" y="286" width="84" height="48" rx="5" fill="#d3eade" stroke="#74a68c"/>
-<text x="761" y="318" font-size="23" fill="#225d43" font-weight="700">4</text>
-<text x="830" y="257" font-size="21" fill="#225d43" font-weight="700">Reuse</text>
-<text x="830" y="285" font-size="21" fill="#225d43" font-weight="700">existing</text>
-<text x="830" y="313" font-size="21" fill="#225d43" font-weight="700">boards</text>
-<text x="594" y="355" font-size="18" fill="#65748a" font-weight="400">Schematic arrangement, not to scale.</text>
-<path d="M438 266 H559 m-11 -9 l11 9 -11 9" fill="none" stroke="#54729d" stroke-width="3"/>
-<text x="447" y="233" font-size="18" fill="#345baa" font-weight="700">Measure</text>
-<text x="36" y="411" font-size="17" fill="#345baa" font-weight="700">SAVE EACH RESULT IN ITS OWNING RECORD</text>
-<rect x="36" y="428" width="292" height="118" rx="12" fill="#fff" stroke="#ced9e8"/>
-<text x="52" y="460" font-size="24" fill="#192942" font-weight="700">MEMORY.md</text>
-<text x="52" y="494" font-size="18" fill="#4b5d76" font-weight="400">Corrected width + layout.</text>
-<text x="52" y="521" font-size="18" fill="#4b5d76" font-weight="400">Durable project constraints.</text>
-<rect x="354" y="428" width="292" height="118" rx="12" fill="#fff" stroke="#ced9e8"/>
-<text x="370" y="460" font-size="24" fill="#192942" font-weight="700">Handoff.md</text>
-<text x="370" y="494" font-size="18" fill="#4b5d76" font-weight="400">Caption review is pending.</text>
-<text x="370" y="521" font-size="18" fill="#4b5d76" font-weight="400">Proofread the four drafts next.</text>
-<rect x="672" y="428" width="292" height="118" rx="12" fill="#fff" stroke="#ced9e8"/>
-<text x="688" y="460" font-size="24" fill="#192942" font-weight="700">Archive</text>
-<text x="688" y="494" font-size="18" fill="#4b5d76" font-weight="400">Old assumption superseded.</text>
-<text x="688" y="521" font-size="18" fill="#4b5d76" font-weight="400">History, not current state.</text>
-<rect x="36" y="568" width="928" height="54" rx="12" fill="#e6edf9" stroke="#ced9e8"/>
-<text x="54" y="601" font-size="22" fill="#294875" font-weight="600">Fresh session: proofread captions, then prepare the installation checklist.</text>
-<text x="36" y="642" font-size="18" fill="#65748a" font-weight="400">Planning is complete; caption approval and installation are not claimed.</text>
-</g>
+  <title id="title">A corrected measurement changes the poster plan</title>
+  <desc id="description">Explanatory illustration of the fictional fixture. The old unconfirmed assumption was 240 cm and one row of four posters. The corrected width is 180 cm. The current plan arranges four posters in two columns and two rows, reusing boards. Memory owns the corrected constraints, the handoff says proofread captions next, and the archive marks the old assumption superseded. No installation is claimed.</desc>
+  <rect width="1000" height="650" fill="#f3f6fa" />
+  <g font-family="Arial, Helvetica, sans-serif" fill="#13283d">
+    <rect x="728" y="286" width="84" height="48" fill="#f3f6fa" stroke="#126a73" stroke-width="1.5" />
+    <rect x="626" y="286" width="84" height="48" fill="#f3f6fa" stroke="#126a73" stroke-width="1.5" />
+    <rect x="728" y="227" width="84" height="48" fill="#f3f6fa" stroke="#126a73" stroke-width="1.5" />
+    <rect x="626" y="227" width="84" height="48" fill="#f3f6fa" stroke="#126a73" stroke-width="1.5" />
+    <rect x="314" y="237" width="68" height="87" fill="#e0e7ef" stroke="#9bafc1" stroke-width="1.5" />
+    <rect x="230" y="237" width="68" height="87" fill="#e0e7ef" stroke="#9bafc1" stroke-width="1.5" />
+    <rect x="146" y="237" width="68" height="87" fill="#e0e7ef" stroke="#9bafc1" stroke-width="1.5" />
+    <rect x="62" y="237" width="68" height="87" fill="#e0e7ef" stroke="#9bafc1" stroke-width="1.5" />
+    <text x="36" y="36" font-size="17" fill="#126a73" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.8">EXPLANATORY ILLUSTRATION · FICTIONAL POSTER EXAMPLE</text>
+    <text x="36" y="79" font-size="34" fill="#13283d" font-weight="400" font-family="Georgia, Times New Roman, serif">A new measurement. A different plan.</text>
+    <text x="56" y="142" font-size="17" fill="#126a73" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.8">BEFORE · SUPERSEDED ASSUMPTION</text>
+    <text x="56" y="177" font-size="25" fill="#13283d" font-weight="700">240 cm, not yet confirmed</text>
+    <text x="56" y="207" font-size="19" fill="#344b60" font-weight="400">Earlier sketch: four posters in one row.</text>
+    <text x="88" y="289" font-size="25" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">1</text>
+    <text x="172" y="289" font-size="25" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">2</text>
+    <text x="256" y="289" font-size="25" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">3</text>
+    <text x="340" y="289" font-size="25" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">4</text>
+    <text x="56" y="355" font-size="18" fill="#344b60" font-weight="400">Historical sketch, not the current layout.</text>
+    <text x="594" y="142" font-size="17" fill="#126a73" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.8">AFTER · CURRENT PLAN</text>
+    <text x="594" y="177" font-size="25" fill="#13283d" font-weight="700">180 cm, corrected width</text>
+    <text x="594" y="207" font-size="19" fill="#344b60" font-weight="400">Four posters, two columns by two rows.</text>
+    <text x="659" y="259" font-size="23" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">1</text>
+    <text x="761" y="259" font-size="23" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">2</text>
+    <text x="659" y="318" font-size="23" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">3</text>
+    <text x="761" y="318" font-size="23" fill="#365469" font-weight="400" font-family="Menlo, Consolas, monospace">4</text>
+    <text x="830" y="257" font-size="21" fill="#344b60" font-weight="400">Reuse</text>
+    <text x="830" y="285" font-size="21" fill="#344b60" font-weight="400">existing</text>
+    <text x="830" y="313" font-size="21" fill="#344b60" font-weight="400">boards</text>
+    <text x="594" y="355" font-size="18" fill="#344b60" font-weight="400">Schematic arrangement, not to scale.</text>
+    <path d="M438 266 H559 m-11 -9 l11 9 -11 9" fill="none" stroke="#126a73" stroke-width="1.5" />
+    <text x="447" y="233" font-size="18" fill="#344b60" font-weight="400">Measure</text>
+    <text x="36" y="411" font-size="17" fill="#126a73" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.8">SAVE EACH RESULT IN ITS OWNING RECORD</text>
+    <text x="52" y="460" font-size="24" fill="#13283d" font-weight="700" font-family="Menlo, Consolas, monospace">MEMORY.md</text>
+    <text x="52" y="494" font-size="18" fill="#344b60" font-weight="400">Corrected width + layout.</text>
+    <text x="52" y="521" font-size="18" fill="#344b60" font-weight="400">Durable project constraints.</text>
+    <text x="370" y="460" font-size="24" fill="#13283d" font-weight="700" font-family="Menlo, Consolas, monospace">Handoff.md</text>
+    <text x="370" y="494" font-size="18" fill="#344b60" font-weight="400">Caption review is pending.</text>
+    <text x="370" y="521" font-size="18" fill="#344b60" font-weight="400">Proofread the four drafts next.</text>
+    <text x="688" y="460" font-size="24" fill="#13283d" font-weight="700">Archive</text>
+    <text x="688" y="494" font-size="18" fill="#344b60" font-weight="400">Old assumption superseded.</text>
+    <text x="688" y="521" font-size="18" fill="#344b60" font-weight="400">History, not current state.</text>
+    <text x="54" y="601" font-size="22" fill="#344b60" font-weight="400">Fresh session: proofread captions, then prepare the installation checklist.</text>
+    <text x="36" y="642" font-size="18" fill="#344b60" font-weight="400">Planning is complete; caption approval and installation are not claimed.</text>
+    <line x1="36.0" y1="111.0" x2="426.0" y2="111.0" stroke="#8090a1" stroke-width="2" />
+    <line x1="36.0" y1="374.0" x2="426.0" y2="374.0" stroke="#b0becb" stroke-width="1" />
+    <line x1="574.0" y1="111.0" x2="964.0" y2="111.0" stroke="#126a73" stroke-width="2" />
+    <line x1="574.0" y1="374.0" x2="964.0" y2="374.0" stroke="#b0becb" stroke-width="1" />
+    <line x1="36.0" y1="428.0" x2="328.0" y2="428.0" stroke="#126a73" stroke-width="2" />
+    <line x1="354.0" y1="428.0" x2="646.0" y2="428.0" stroke="#126a73" stroke-width="2" />
+    <line x1="340.0" y1="443.0" x2="340.0" y2="546.0" stroke="#c8d3dd" stroke-width="1" />
+    <line x1="672.0" y1="428.0" x2="964.0" y2="428.0" stroke="#8090a1" stroke-width="2" />
+    <line x1="658.0" y1="443.0" x2="658.0" y2="546.0" stroke="#c8d3dd" stroke-width="1" />
+    <line x1="36.0" y1="568.0" x2="964.0" y2="568.0" stroke="#13283d" stroke-width="1" />
+    <line x1="36.0" y1="622.0" x2="964.0" y2="622.0" stroke="#13283d" stroke-width="1" />
+    <line x1="36" y1="49" x2="964" y2="49" stroke="#c8d3dd" stroke-width="1" />
+  </g>
 </svg>
