@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "routes": {
+    "poster-display": {
+      "project": "Areas/Exhibit Projects/Poster Display",
+      "references": [
+        "00_Resources/display-checklist.md",
+        "Areas/Exhibit Projects/Poster Display/captions.md"
+      ]
+    },
+    "workshop-kit": {
+      "project": "Areas/Workshop Projects",
+      "references": []
+    }
+  }
+}

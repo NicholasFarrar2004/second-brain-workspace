@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title description">
+<title id="title">Work, checkpoint and resume</title>
+<desc id="description">Illustrative architecture for a fictional starter workspace. Request then route then read then work. Checkpoint current state in the canonical handoff, and changed durable facts in owning memory. A fresh session resumes from the checkpoint. Archive is historical evidence, not current state.</desc>
+<rect width="1000" height="1000" rx="20" fill="#f3f6fb"/>
+<g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#192942">
+<text x="40" y="40" font-size="17" fill="#345baa" font-weight="700">ILLUSTRATIVE ARCHITECTURE · FICTIONAL STARTER WORKSPACE</text>
+<text x="40" y="87" font-size="35" fill="#192942" font-weight="750">Make the next session ready to continue.</text>
+<text x="40" y="126" font-size="22" fill="#4b5d76" font-weight="400">A documented workflow; each checkpoint leaves a usable starting point.</text>
+<rect x="40" y="175" width="430" height="131" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="60" y="204" font-size="17" fill="#345baa" font-weight="700">1  REQUEST</text>
+<text x="60" y="237" font-size="26" fill="#192942" font-weight="700">Define the work</text>
+<text x="60" y="269" font-size="20" fill="#4b5d76" font-weight="400">State the task and its constraints.</text>
+<text x="60" y="297" font-size="20" fill="#4b5d76" font-weight="400">Separate the outcome from assumptions.</text>
+<rect x="530" y="175" width="430" height="131" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="550" y="204" font-size="17" fill="#345baa" font-weight="700">2  ROUTE</text>
+<text x="550" y="237" font-size="26" fill="#192942" font-weight="700">Choose the owning project</text>
+<text x="550" y="269" font-size="20" fill="#4b5d76" font-weight="400">Follow an explicit route.</text>
+<text x="550" y="297" font-size="20" fill="#4b5d76" font-weight="400">Identify the applicable scope.</text>
+<path d="M475 240 H524 m-8 -7 l8 7 -8 7" fill="none" stroke="#54729d" stroke-width="3"/>
+<path d="M745 311 V347 m-7 -8 l7 8 7 -8" fill="none" stroke="#54729d" stroke-width="3"/>
+<rect x="530" y="355" width="430" height="131" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="550" y="384" font-size="17" fill="#345baa" font-weight="700">3  READ</text>
+<text x="550" y="417" font-size="26" fill="#192942" font-weight="700">Rules + facts + current state</text>
+<text x="550" y="449" font-size="20" fill="#4b5d76" font-weight="400">Read root, area and project context.</text>
+<text x="550" y="477" font-size="20" fill="#4b5d76" font-weight="400">Include the selected references.</text>
+<rect x="40" y="355" width="430" height="131" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="60" y="384" font-size="17" fill="#345baa" font-weight="700">4  WORK</text>
+<text x="60" y="417" font-size="26" fill="#192942" font-weight="700">Act and verify</text>
+<text x="60" y="449" font-size="20" fill="#4b5d76" font-weight="400">Work on the request using that context.</text>
+<text x="60" y="477" font-size="20" fill="#4b5d76" font-weight="400">Separate results from open questions.</text>
+<path d="M525 420 H476 m8 -7 l-8 7 8 7" fill="none" stroke="#54729d" stroke-width="3"/>
+<path d="M255 491 V535 m-7 -8 l7 8 7 -8" fill="none" stroke="#54729d" stroke-width="3"/>
+<rect x="40" y="545" width="920" height="232" rx="14" fill="#e7f3ef" stroke="#b7d8cb"/>
+<text x="60" y="581" font-size="19" fill="#197460" font-weight="700">5  CHECKPOINT AT THE OWNING SCOPE</text>
+<rect x="60" y="603" width="410" height="149" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="80" y="632" font-size="17" fill="#197460" font-weight="700">CURRENT STATE</text>
+<text x="80" y="665" font-size="26" fill="#192942" font-weight="700">Handoff.md</text>
+<text x="80" y="697" font-size="20" fill="#4b5d76" font-weight="400">Completed work, evidence and next action.</text>
+<text x="80" y="725" font-size="20" fill="#4b5d76" font-weight="400">Open questions and resume references.</text>
+<rect x="510" y="603" width="430" height="149" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="530" y="632" font-size="17" fill="#197460" font-weight="700">DURABLE FACTS, ONLY IF CHANGED</text>
+<text x="530" y="665" font-size="26" fill="#192942" font-weight="700">MEMORY.md</text>
+<text x="530" y="697" font-size="20" fill="#4b5d76" font-weight="400">Update the fact at its canonical home.</text>
+<text x="530" y="725" font-size="20" fill="#4b5d76" font-weight="400">Do not duplicate it into every summary.</text>
+<path d="M305 782 V818 m-7 -8 l7 8 7 -8" fill="none" stroke="#54729d" stroke-width="3"/>
+<rect x="40" y="825" width="540" height="131" rx="14" fill="#fff" stroke="#ced9e8"/>
+<text x="60" y="854" font-size="17" fill="#197460" font-weight="700">6  FRESH SESSION</text>
+<text x="60" y="887" font-size="26" fill="#192942" font-weight="700">Resume from the current handoff</text>
+<text x="60" y="919" font-size="20" fill="#4b5d76" font-weight="400">Read the checkpoint and verify the starting state.</text>
+<text x="60" y="947" font-size="20" fill="#4b5d76" font-weight="400">Continue the next action.</text>
+<rect x="640" y="825" width="320" height="131" rx="14" fill="#e9edf3" stroke="#aab8cb" stroke-dasharray="6 5"/>
+<text x="660" y="857" font-size="17" fill="#65748a" font-weight="700">ARCHIVE</text>
+<text x="660" y="891" font-size="24" fill="#192942" font-weight="700">Historical evidence</text>
+<text x="660" y="923" font-size="20" fill="#4b5d76" font-weight="400">Consult when needed.</text>
+<path d="M584 891 H634" fill="none" stroke="#a2adbd" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="40" y="986" font-size="18" fill="#65748a" font-weight="400">Archived history does not replace current state. No automatic resume is claimed.</text>
+</g>
+</svg>

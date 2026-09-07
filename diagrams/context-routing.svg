@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="900" viewBox="0 0 1000 900" role="img" aria-labelledby="title description">
+<title id="title">Select one branch, then its explicit references</title>
+<desc id="description">Illustrative architecture for a fictional starter workspace. The explicit poster-display route selects root context, Exhibit Projects area and Poster Display project, plus display-checklist.md and captions.md. The unrelated workshop-kit route is excluded. Rules, facts, current state and references have distinct ownership.</desc>
+<rect width="1000" height="900" rx="20" fill="#f3f6fb" />
+<g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#192942">
+<text x="40" y="40" font-size="17" fill="#345baa" font-weight="700">ILLUSTRATIVE ARCHITECTURE · FICTIONAL STARTER WORKSPACE</text>
+<text x="40" y="87" font-size="34" fill="#192942" font-weight="750">One route. Scoped context. Clear ownership.</text>
+<rect x="40" y="115" width="920" height="59" rx="14" fill="#e6edf9" stroke="#ced9e8" />
+<text x="60" y="152" font-size="24" fill="#192942" font-weight="700">poster-display</text>
+<text x="290" y="152" font-size="22" fill="#4b5d76" font-weight="400">Explicit route declared in workspace.json</text>
+<rect x="40" y="210" width="540" height="132" rx="14" fill="#fff" stroke="#ced9e8" />
+<text x="60" y="239" font-size="17" fill="#345baa" font-weight="700">ROOT</text>
+<text x="60" y="272" font-size="26" fill="#192942" font-weight="700">Common context</text>
+<text x="60" y="304" font-size="20" fill="#4b5d76" font-weight="400">Shared instructions and workspace facts.</text>
+<text x="60" y="332" font-size="20" fill="#4b5d76" font-weight="400">Begin here; do not load every project.</text>
+<path d="M310 346 V378 m-7 -8 l7 8 7 -8" fill="none" stroke="#54729d" stroke-width="3" />
+<rect x="40" y="385" width="540" height="132" rx="14" fill="#fff" stroke="#ced9e8" />
+<text x="60" y="414" font-size="17" fill="#345baa" font-weight="700">AREA</text>
+<text x="60" y="447" font-size="26" fill="#192942" font-weight="700">Exhibit Projects</text>
+<text x="60" y="479" font-size="20" fill="#4b5d76" font-weight="400">Add the chosen area’s instructions and facts.</text>
+<text x="60" y="507" font-size="20" fill="#4b5d76" font-weight="400">Keep area knowledge at this scope.</text>
+<path d="M310 521 V553 m-7 -8 l7 8 7 -8" fill="none" stroke="#54729d" stroke-width="3" />
+<rect x="40" y="560" width="540" height="176" rx="14" fill="#fff" stroke="#ced9e8" />
+<text x="60" y="589" font-size="17" fill="#345baa" font-weight="700">PROJECT OWNER</text>
+<text x="60" y="622" font-size="26" fill="#192942" font-weight="700">Poster Display</text>
+<text x="60" y="654" font-size="20" fill="#4b5d76" font-weight="400">Areas/Exhibit Projects/Poster Display</text>
+<text x="60" y="682" font-size="20" fill="#4b5d76" font-weight="400">Project rules + durable facts + current handoff.</text>
+<text x="60" y="710" font-size="20" fill="#4b5d76" font-weight="400">Read what is needed to resume this task.</text>
+<path d="M582 638 H631 m-8 -7 l8 7 -8 7" fill="none" stroke="#54729d" stroke-width="3" />
+<rect x="640" y="560" width="320" height="176" rx="14" fill="#fff" stroke="#ced9e8" />
+<text x="660" y="589" font-size="17" fill="#197460" font-weight="700">EXPLICIT REFERENCES</text>
+<text x="660" y="622" font-size="26" fill="#192942" font-weight="700">Checklist + drafts</text>
+<text x="660" y="654" font-size="20" fill="#4b5d76" font-weight="400">display-checklist.md</text>
+<text x="660" y="682" font-size="20" fill="#4b5d76" font-weight="400">captions.md</text>
+<text x="660" y="710" font-size="20" fill="#4b5d76" font-weight="400">Detail selected for this task.</text>
+<rect x="640" y="385" width="320" height="132" rx="14" fill="#e9edf3" stroke="#aab8cb" stroke-dasharray="6 5" />
+<text x="660" y="415" font-size="17" fill="#65748a" font-weight="700">NOT SELECTED</text>
+<text x="660" y="450" font-size="26" fill="#192942" font-weight="700">workshop-kit</text>
+<text x="660" y="483" font-size="20" fill="#4b5d76" font-weight="400">Unrelated branch stays out.</text>
+<path d="M582 275 H800 V375" fill="none" stroke="#a2adbd" stroke-width="3" stroke-dasharray="6 5" />
+<text x="649" y="252" font-size="18" fill="#65748a" font-weight="400">Shared root, separate route</text>
+<path d="M792 357 l16 16 m0 -16 l-16 16" fill="none" stroke="#a2adbd" stroke-width="3" stroke-dasharray="6 5" />
+<text x="40" y="775" font-size="17" fill="#345baa" font-weight="700">EACH RECORD HAS ONE JOB</text>
+<text x="40" y="814" font-size="24" fill="#192942" font-weight="700">Rules</text>
+<text x="40" y="845" font-size="20" fill="#4b5d76" font-weight="400">How to work</text>
+<text x="280" y="814" font-size="24" fill="#192942" font-weight="700">Facts</text>
+<text x="280" y="845" font-size="20" fill="#4b5d76" font-weight="400">What is known</text>
+<text x="520" y="814" font-size="24" fill="#192942" font-weight="700">Current state</text>
+<text x="520" y="845" font-size="20" fill="#4b5d76" font-weight="400">Where to resume</text>
+<text x="760" y="814" font-size="24" fill="#192942" font-weight="700">References</text>
+<text x="760" y="845" font-size="20" fill="#4b5d76" font-weight="400">Supporting detail</text>
+<text x="40" y="883" font-size="18" fill="#65748a" font-weight="400">A declared file-reading boundary, not automatic agent integration.</text>
+</g>
+</svg>
