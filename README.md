@@ -1,5 +1,13 @@
 # Second Brain
 
+
+## Project status
+
+
+
+This is a public demonstration of the file-based approach. My private WorkOS is an active workspace that evolves separately. Its current files, personal context and operating rules are not mirrored in this repository; the fictional example and validator show the design without exposing that workspace.
+
+
 **A file-based workspace that gives an AI-assisted project a clear place for its rules, decisions and next action.**
 
 Long projects rarely fit in one conversation. A new session needs to know which instructions apply, which facts still hold and where work stopped. Second Brain demonstrates an architecture for keeping that context in a small, explicit set of files.
