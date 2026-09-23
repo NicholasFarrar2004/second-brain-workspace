@@ -6,6 +6,8 @@ Every project, measurement, date and checkpoint in this example is fictional. Th
 
 ## Select the route
 
+Start as a person would: open the fictional [workspace README](../example/README.md), choose [Exhibit Projects](<../example/Areas/Exhibit Projects/README.md>), then open [Poster Display](<../example/Areas/Exhibit Projects/Poster Display/README.md>). The pages lead to the same owner, settled facts and current handoff without duplicating the measurements. An agent then reads the selected branch's instructions and handoff.
+
 From the repository root, with Python 3.10 or newer:
 
 ```sh
@@ -18,7 +20,7 @@ The checker uses `example/` by default. For machine-readable output:
 python3 scripts/check_workspace.py --route poster-display --json
 ```
 
-The route is explicit. Typing a sentence about a poster display will not make the checker infer one. The [manifest](../example/workspace.json) declares the route and its references.
+The checker route is explicit. Typing a sentence about a poster display will not make it infer one. The [manifest](../example/workspace.json) declares the route and its references. This is a testable illustration; the private workspace's small installed routing skill and host behavior are outside this repository.
 
 A successful result reports `ok: true`, the selected route and a `context` list of relative paths with byte sizes. It also reports `total_context_bytes`. Those values describe the declared files; they do not measure an agent's actual context window or token use.
 
