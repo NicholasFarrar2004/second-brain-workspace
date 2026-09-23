@@ -1,14 +1,10 @@
 # Second Brain
 
-
 ## Project status
-
-
 
 This is a public demonstration of the file-based approach. My private WorkOS is an active workspace that evolves separately. Its current files, personal context and operating rules are not mirrored in this repository; the fictional example and validator show the design without exposing that workspace.
 
 The example now includes the human navigation layer used in the current design: descriptive folders and short READMEs lead to the owning branch, while scoped instructions and a handoff guide the work. Its explicit route file and checker remain teaching tools, not copies of my private routing workflow.
-
 
 **A file-based workspace that gives an AI-assisted project a clear place for its rules, decisions and next action.**
 
