@@ -17,6 +17,12 @@ This repository is a fictional demonstration of that design. It does not connect
 
 The project handoff is the working record. It should point to the facts that explain a decision instead of copying them into several summaries. A dated fact changes at its owning location; the handoff records that a change happened and what to do next.
 
+## Let the folder tree guide the reader
+
+The current private design also has a human navigation layer. A person starts with subject-named folders and short READMEs, then opens the owning project's materials. The fictional [workspace start page](../example/README.md) leads to an [Area page](<../example/Areas/Exhibit Projects/README.md>) and a [project page](<../example/Areas/Exhibit Projects/Poster Display/README.md>). These pages point to records; they do not become extra places to maintain the same facts.
+
+Not every filing folder needs its own instructions, memory and handoff. A distinct project or Area gets those records when it has independent ongoing work. Ordinary folders for drafts, sources or finished material inherit their owner's context. The fictional poster's caption file illustrates material owned by the project without creating a separate workstation.
+
 A timestamp helps identify the intended current entry, but it is not proof that a statement is correct. Confirm a disputed fact against its source. An old archived decision should not silently override the current project record.
 
 ## Scope instructions by responsibility
@@ -33,7 +39,7 @@ Keep a shared instruction at the narrowest level that owns it. A project-specifi
 
 ## Make the route inspectable
 
-The [example workspace manifest](../example/workspace.json) names two routes, `poster-display` and `workshop-kit`. A reader selects a route explicitly. Its declared context identifies the files needed to resume that branch. The checker reports this list deterministically; it does not infer a route from natural language or decide which facts matter.
+The [example workspace manifest](../example/workspace.json) names two routes, `poster-display` and `workshop-kit`. A reader selects a route explicitly. Its declared context identifies the files needed to resume that branch. The checker reports this list deterministically; it does not infer a route from natural language or decide which facts matter. The manifest is a teaching contract for this repository. The private WorkOS uses its folder and instruction route, with a small installed entry skill; that skill is not included here or simulated by the checker.
 
 The workshop branch makes the boundary visible: choosing the poster-display route does not require reading workshop task state. A reference outside the declared context remains available when an instruction or question calls for it. The manifest is a demonstration contract, not a log of everything a model actually received.
 
