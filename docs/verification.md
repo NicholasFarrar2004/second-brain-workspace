@@ -1,5 +1,9 @@
 # Verification
 
+## Navigation refresh
+
+The fictional workspace now has root, Area and project READMEs for human navigation. The read-only checker scans all 18 Markdown files in the example and finds no broken supported local links. Both declared routes pass, and the existing 15 regression tests pass. The route context lists are unchanged: navigation pages help choose a branch but are not silently inserted into the checker's claimed agent context. No new independent fresh-reader exercise or host skill test was performed for this refresh.
+
 The local public edition was checked with Python 3.12 on macOS. The implementation targets Python 3.10 or later, but this review does not establish coverage across every supported Python version or operating system.
 
 ## Structural checks
